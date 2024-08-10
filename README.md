@@ -1,4 +1,4 @@
-# Home LLM
+# Local LLM
 This project is a fork of the Home LLM Home Assistant integration originally created by [acon96](https://github.com/acon96/home-llm/tree/develop). This project deviates from the original by focusing exclusively on integration with a LLM that's running locally on capable hardware (i.e. not the RPI or similar hardware that's running Home Assistant). For example, Llama 3.1 running on an NVIDIA 4090 through Local AI or vLLM.
 
 ## Quick Start
