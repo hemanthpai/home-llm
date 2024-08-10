@@ -1,15 +1,14 @@
 {
   "domain": "llama_conversation",
   "name": "Local LLM Conversation",
-  "version": "0.3.4",
-  "codeowners": ["@acon96"],
+  "version": "0.0.1",
+  "codeowners": ["@hemanthpai"],
   "config_flow": true,
   "dependencies": ["conversation"],
-  "documentation": "https://github.com/acon96/home-llm",
+  "documentation": "https://github.com/hemanthpai/local-llm",
   "integration_type": "service",
   "iot_class": "local_polling",
   "requirements": [
-    "huggingface-hub==0.23.0",
     "webcolors<=1.13"
   ]
 }
